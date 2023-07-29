@@ -1,0 +1,6 @@
+@media (max-width:600px){
+    .title{
+        display: flex;
+        margin-left: 25px;
+    }
+}
